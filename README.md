@@ -2,8 +2,7 @@
 
 Multiple file in Directory can be packed (merge) into a single file and then you can unpack that merge file to get all the files of that Directory back.You can merge many file into one file and split it again(Only .txt file merge and split it again).
 
-###### _____________________________________________________________________________________________________________________________________
-
+>#
 
 ## Project Statistic
 
@@ -17,9 +16,8 @@ Multiple file in Directory can be packed (merge) into a single file and then you
 
 **Type** : GUI & CUI  
 
-###### _____________________________________________________________________________________________________________________________________
+> # 
 
-# 
 >#### To run this code type command(For Front End Only)
   
   	javac front.java
