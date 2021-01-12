@@ -13,7 +13,7 @@ Multiple file in Directory can be packed (merge) into a single file and then you
 
 **Back-end** : Java
 
-**Type** : GUI & CUI  
+**Type** : GUI & CUI<br  />
 
 
 >#### To run this code type command(For Front End Only)
