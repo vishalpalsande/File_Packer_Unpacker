@@ -16,15 +16,15 @@ Back-end : Java
 Type : GUI & CUI
 
 
-	###### To run this code type,(For Front End Only)
+###### To run this code type,(For Front End Only)
   
-  		javac front.java
-  		java front
+  	javac front.java
+  	java front
   	
 
-	###### To run this code type,(For Back End Only)  	
+###### To run this code type,(For Back End Only)  	
 
-		javac main.java
-		java main
+	javac main.java
+	java main
  
   	
