@@ -1,9 +1,9 @@
-File-Packer-Unpacker
+#File-Packer-UnPacker
 
 Multiple file in Directory can be packed (merge) into a single file and then you can unpack that merge file to get all the files of that Directory back.You can merge many file into one file and split it again(Only .txt file merge and split it again).
 
 
-Project Statistic
+>Project Statistic
 
 Platform : Linux
 
@@ -16,13 +16,13 @@ Back-end : Java
 Type : GUI & CUI
 
 
-	To run code type,(For Front End Only)
+	To run this code type,(For Front End Only)
   
   		javac front.java
   		java front
   	
 
-	To run code type,(For Back End Only)  	
+	To run this code type,(For Back End Only)  	
 
 		javac main.java
 		java main
