@@ -5,24 +5,24 @@ Multiple file in Directory can be packed (merge) into a single file and then you
 
 ## Project Statistic
 
-Platform : Linux
+**Platform** : Linux
 
-Technology : Java
+**Technology** : Java
 
-Front-end : Java
+**Front-end** : Java
 
-Back-end : Java
+**Back-end** : Java
 
-Type : GUI & CUI
+**Type** : GUI & CUI
 
 
-###### To run this code type,(For Front End Only)
+### To run this code type,(For Front End Only)
   
   	javac front.java
   	java front
   	
 
-###### To run this code type,(For Back End Only)  	
+### To run this code type,(For Back End Only)  	
 
 	javac main.java
 	java main
