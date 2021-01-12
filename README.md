@@ -27,7 +27,7 @@ Multiple file in Directory can be packed (merge) into a single file and then you
 
 >#### To run this code type command(For Back End Only)  	
 
-	javac main.java<br\>
+	javac main.java <br/>
 	
 	java main
  
